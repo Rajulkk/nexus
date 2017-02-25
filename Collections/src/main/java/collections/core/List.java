@@ -1,5 +1,5 @@
 package collections.core;
-
+//Rajul konkar
 public interface List {
 
     public void add(String d);
